@@ -1,0 +1,6 @@
+name = AJAXulate
+description = Do AJAX things.
+package = Nice...
+core = 7.x
+files[] = ajaxulate.module
+scripts[] = ajaxulate.js
